@@ -6,6 +6,16 @@ This repository contains a Jupyter Notebook that implements the pipeline describ
 
 ---
 
+## Original Research Paper
+
+For further details on the methodology behind this notebook, please refer to the original research paper:
+
+**[TOPOLOGICAL RECOGNITION OF CRITICAL TRANSITIONS  
+IN TIME SERIES OF CRYPTOCURRENCIES  
+by Marian Gidea, Daniel Goldsmith, Yuri Katz, Pablo Roldan, and Yonah Shmalo](https://arxiv.org/pdf/1809.00695)**
+
+---
+
 ## Overview
 
 The notebook covers the following steps:
